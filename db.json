@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": "29af",
+      "firstName": "Jhon",
+      "lastName": "Jhon",
+      "email": "jhon@gmail.com",
+      "dob": "2020-02-01T17:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "sdf",
+      "experience": 3,
+      "package": 123
+    },
+    {
+      "id": "70db",
+      "firstName": "Thar",
+      "lastName": "Gyi",
+      "email": "thargyi@gmail.com",
+      "dob": "2012-11-05T17:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "sdfw",
+      "experience": 5,
+      "package": 23
+    },
+    {
+      "firstName": "Be",
+      "lastName": "Bee",
+      "email": "bebee@gmail.com",
+      "dob": "2022-07-15T17:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "wqwe",
+      "experience": 5,
+      "package": 80,
+      "id": "5a54"
+    }
+  ]
+}
