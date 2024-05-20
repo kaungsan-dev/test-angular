@@ -1,8 +1,8 @@
 # Used Technology Version
-Version of Angular - 14.2.13
-Material UI Design
-Reactive Form
-HTTP
+Version of Angular - 14.2.13 |
+Material UI Design |
+Reactive Form |
+HTTP |
 JSON server
 
 # CrudApp
